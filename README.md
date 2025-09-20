@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**NiNi123456789Niki/NINi123456789Niki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm INiNiDS, a Rustacean with a love for Unreal Engine and game development.  
+Currently brewing cool projects like **WikiSearch Bot**.  
+I code, I experiment, I learn — and sometimes break things 😅
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- ✍️ I'm currently working on my new project **GemEXP** – an unofficial open-source Android app-alternative to the official Gemini app, featuring extended functionality.
+- 🧑‍🏫 Going to learn and use **C++ with Unreal Engine optimized!**
+- 🙌 My name is pronounced like **I**, **Ni Ni**, **DS** → yes, yes like **INiNiDS** :)
+- 😊 Fun Fact:
+  > I started learning programming because of Discord.  
+  > I just met a man who made Discord bots. I decided to give it a try, it was fun!  
+  > I started with BDFD, then found Python thanks to a friend.  
+  > But in the end, GameDev stole my heart ❤️
+- 🖋️ Contact me via **Telegram [@NiNiONC](https://t.me/NiNiONC)** or email: **ininids@duck.com**
+
+---
+
+## My Best Projects
+
+### 📖 WikiSearchBot _(soon open source)_
+
+> Telegram bot that fetches Wikipedia summaries.  
+> Ask a topic → get a short summary + full text in file.  
+> Request a category → receive an archive with multiple summaries.
+
+### 📱 GemEXP _(coming soon)_
+
+> Unofficial open-source Android app alternative to the Gemini app.  
+> Includes extended features and a fresh UI.
+
+---
+
+## 🛠️ Tech Stack
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
