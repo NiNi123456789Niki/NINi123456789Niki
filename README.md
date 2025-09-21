@@ -22,7 +22,7 @@ I code, I experiment, I learn — and sometimes break things 😅
 
 ## My Best Projects
 
-### 📖 WikiSearchBot _(soon open source)_
+### 📖 [WikiSearchBot](https://github.com/NiNi123456789Niki/WikiSearch_bot)
 
 > Telegram bot that fetches Wikipedia summaries.  
 > Ask a topic → get a short summary + full text in file.  
